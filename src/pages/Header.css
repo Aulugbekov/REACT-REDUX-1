@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  height: 50px;
+  background: #0062be;
+}
+.header h1 {
+  color: antiquewhite;
+}
+.header ul {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  justify-content: space-between;
+  font-size: 25px;
+  color: floralwhite;
+}
+.header ul li {
+  list-style: none;
+}
